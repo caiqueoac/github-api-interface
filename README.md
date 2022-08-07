@@ -1,3 +1,5 @@
+# Repositório de estudo baseado no curso 'Criando um front-end totalmente componentizado na prática com ReactJS' da DIO
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
